@@ -20,3 +20,4 @@ initialCards.forEach(function (item) {
   const cardElement = addCard(item, removeCard);
   cardPlace.append(cardElement);
 });
+dd
